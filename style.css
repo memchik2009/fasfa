@@ -1,0 +1,38 @@
+*{
+    padding: 10px 15px;
+    margin: 3% 45% 0 3%;
+     background-image:url("chel.png");
+    background-size: cover;
+    background-attachment: fixed;
+    color: #f10101;
+    font-size: 15px;
+}
+body {
+    background-image:url ("chel.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p{
+    border: 5px solid;
+    border-radius: 50px;
+    border-color: black;
+    font-size: 50px;
+    margin: 100px;
+    padding: 50px;
+    text-align: center;
+    background-color: crimson;
+    color:rgb(103, 9, 255);
+}
+
+p:hover{
+    scale:1.1;
+
+}
+h1{
+    margin: 100px;
+    padding: 50xp;
+    text-align: center;
+    color:rgb(21, 59, 102); 
+    font-size:100px;
+}
